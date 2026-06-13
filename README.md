@@ -5,7 +5,7 @@
           self-hosted = never breaks. webp/png/jpg all render fine on GitHub.
 -->
 
-<img src="./assets/banner.webp" width="100%" alt="" />
+<img src="./banner.webp" width="100%" alt="" />
 
 <div align="center">
 
