@@ -22,9 +22,6 @@
 <!-- ============ ABOUT ============ -->
 <table>
 <tr>
-<td width="34%">
-<img src="./side.jpg" width="100%" alt="" />
-</td>
 <td width="66%">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1000&color=ffffff&width=440&lines=%3E+whoami" alt="" />
@@ -42,6 +39,11 @@ meant to be walked.
 <sub>**hunting** · bugcrowd · intigriti · yeswehack</sub>
 
 </td>
+<td width="34%">
+<img src="./side.jpg" width="100%" alt="" />
+</td>
+</tr>
+</table>
 </tr>
 </table>
 
