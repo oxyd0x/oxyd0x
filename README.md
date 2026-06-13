@@ -9,7 +9,7 @@
 
 <div align="center">
 
-`oxyd0x`
+`oxyd`
 
 <sub>pentester · bug hunter — web / mobile / api</sub>
 
